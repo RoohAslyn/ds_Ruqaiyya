@@ -97,7 +97,7 @@ Optimal performance emerges when traders **diverge from crowd emotion**, emphasi
 ---
 
 ## 🔗 Google Colab Notebook
-📎 Colab Link: *(Add your public Colab link here)*  
+📎 Colab Link: **https://colab.research.google.com/drive/1Paqm-maNduBE0_SM8mxGBi0gKXfENhvp?usp=sharing**
 Access: **Anyone with the link can view**
 
 ---
